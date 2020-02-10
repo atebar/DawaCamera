@@ -6,6 +6,16 @@ export const environment = {
   production: false
 };
 
+export const firebaseConfig = {
+  apiKey: "AIzaSyA2dCfFjTfQZVEadefGw3uosMbLnf1Pdvo",
+  authDomain: "dawacamera-3cba4.firebaseapp.com",
+  databaseURL: "https://dawacamera-3cba4.firebaseio.com",
+  projectId: "dawacamera-3cba4",
+  storageBucket: "dawacamera-3cba4.appspot.com",
+  messagingSenderId: "969686209840",
+  appId: "1:969686209840:web:670da2992347c9929da4f5"
+};
+
 /*
  * For easier debugging in development mode, you can import the following file
  * to ignore zone related error stack frames such as `zone.run`, `zoneDelegate.invokeTask`.

@@ -1,5 +1,7 @@
 {
   "name": "DawaCamera",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
